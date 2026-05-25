@@ -2,7 +2,7 @@
     font-family: 'SchoolFont';
 
     src:
-        url('./fonts/NotoSansJP-Regular.woff2') format('woff2');
+        url('./fonts/subset-Nagurigaki-Crayon.woff2') format('woff2');
 
     font-weight: 400;
 
