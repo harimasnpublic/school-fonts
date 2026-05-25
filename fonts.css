@@ -2,7 +2,7 @@
     font-family: 'subset-Nagurigaki-Crayon';
 
     src:
-        url('./fonts/subset-Nagurigaki-Crayon.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/harimasnpublic/school-fonts@v1/fonts/subset-Nagurigaki-Crayon.woff2') format('woff2');
 
     font-weight: 400;
 
